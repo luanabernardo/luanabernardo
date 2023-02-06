@@ -1,7 +1,7 @@
 ### Olá, me chamo Luana Vitória 😁
 
-- ⏳ Loading ⏳ Técnico em Desenvolvimento de sistemas 3/3
-- ⏳ Loading ⏳ Sistemas de informação 3/8
+- ⏳ Loading 3/3 ⏳ Técnico em Desenvolvimento de sistemas
+- ⏳ Loading 3/8 ⏳ Sistemas de informação 
 - 💜 Apaixonada por Design de Interface
 
 
