@@ -1,12 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF00FF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Luana+Vitória;Tenho+19+anos;Atualmente+estudando;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
-
+##
 - ⏳ Loading 3/3 ⏳ Técnico em Desenvolvimento de sistemas
 - ⏳ Loading 3/8 ⏳ Sistemas de informação  
 - 💜 Apaixonada por Design de Interface
 
-
+##
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="David-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="David-Canvas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
@@ -19,7 +19,7 @@
          
   </div>
  
-  ##
+ ##
   <div align="center"> 
 <a href="https://instagram.com/luanavit04" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href = "mailto:luanavit007@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
