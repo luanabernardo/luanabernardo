@@ -2,16 +2,16 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF00FF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Luana+Vitória;Tenho+19+anos;Atualmente+estudando;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
 
-
 - ⏳ Loading 3/3 ⏳ Técnico em Desenvolvimento de sistemas
-- ⏳ Loading 3/8 ⏳ Sistemas de informação 
-- 💜 Apaixonada por Design de Interface
-
+- ⏳ Loading 3/8 ⏳ Sistemas de informação  
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luanabernardo&show_icons=true&count_private=true&hide_border=true&title_color=FF00FF&icon_color=FF00FF&text_color=c9d1d9&bg_color=0d1117" alt="Luana Bernardo github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanabernardo&layout=compact&hide_border=true&title_color=FF00FF&text_color=FF00FF&bg_color=0d1117" />
 </div>
+
+💜 Apaixonada por Design de Interface
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="David-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
