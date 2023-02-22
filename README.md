@@ -4,7 +4,6 @@
 ##
 - ⏳ Loading 3/3 ⏳ Técnico em Desenvolvimento de sistemas
 - ⏳ Loading 3/8 ⏳ Sistemas de informação  
-- 💜 Apaixonada por Design de Interface
 
 ##
 <div align="center" style="display: inline_block"><br>
